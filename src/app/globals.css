@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans+Arabic:wght@100..800&display=swap");
+@import "tailwindcss";
+
+:root {
+  --background: #020617;
+  --foreground: #e2e8f0;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: "Playpen Sans Arabic";
+  --font-display: var(--font-baloo);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Playpen Sans Arabic", var(--font-baloo), sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-baloo), sans-serif;
+}
+
+.font-accent {
+  font-family: var(--font-handjet), monospace;
+}
+
+html[data-ui-locale="en"] body {
+  font-family: "Playpen Sans Arabic", var(--font-baloo), sans-serif;
+}
+
+html[data-ui-locale="en"] h1,
+html[data-ui-locale="en"] h2,
+html[data-ui-locale="en"] h3,
+html[data-ui-locale="en"] h4 {
+  font-family: var(--font-baloo), "Playpen Sans Arabic", sans-serif;
+}
+
+html[data-ui-locale="ar"] body,
+html[data-ui-locale="ar"] button,
+html[data-ui-locale="ar"] input,
+html[data-ui-locale="ar"] select,
+html[data-ui-locale="ar"] textarea {
+  font-family: "Playpen Sans Arabic", var(--font-baloo), sans-serif;
+}
+
+html[dir="rtl"] .rtl-safe-left {
+  text-align: right;
+}

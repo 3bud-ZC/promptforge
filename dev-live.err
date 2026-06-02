@@ -1,0 +1,1397 @@
+⚠ ./
+Failed to find font override values for font `Playpen Sans Arabic`
+Skipping generating a fallback font.
+
+
+⚠ ./
+Failed to find font override values for font `Playpen Sans Arabic`
+Skipping generating a fallback font.
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:4:1
+Module not found: Can't resolve '@/components/layout/Sidebar'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+
+Import map: aliased to relative './src/components/layout/Sidebar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/AppShell.tsx:5:1
+Module not found: Can't resolve '@/components/layout/Topbar'
+  [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m4 |[0m [36mimport[0m { [33mSidebar[0m } [36mfrom[0m [32m"@/components/layout/Sidebar"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mTopbar[0m } [36mfrom[0m [32m"@/components/layout/Topbar"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { useI18n } [36mfrom[0m [32m"@/components/providers/I18nProvider"[0m;
+  [90m7 |[0m [36mimport[0m { cn } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m8 |[0m
+
+Import map: aliased to relative './src/components/layout/Topbar' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/AppShell.tsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <DevRootHTTPAccessFallbackBoundary>
+      <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <Head>
+              <__next_root_layout_boundary__>
+                <SegmentViewNode type="layout" pagePath="layout.tsx">
+                  <SegmentTrieNode>
+                  <link>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <RootLayout>
+                    <html lang="en" suppressHydrationWarning={true} className="baloo_bhai...">
+                      <body className="min-h-full...">
+                        <I18nProvider>
+                          <AppShell>
+                            <div className="min-h-scre...">
+                              <div className="relative">
+                                <div>
+                                <div
++                                 className="relative mx-auto flex max-w-[1600px] flex-col md:flex-row-reverse"
+-                                 className="relative mx-auto flex max-w-[1600px] flex-col md:flex-row"
+                                >
+                                  <Sidebar>
+                                    <aside className="w-full shr...">
+                                      <div className="mb-6 flex ...">
+                                        <div>
+                                        <div>
+                                          <p>
+                                          <p className="text-xs text-slate-400">
++                                           استوديو هندسة البرومبتات
+-                                           Prompt Engineering Studio
+                                      ...
+                                  ...
+              ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at p (<anonymous>)
+    at Sidebar (src/components/layout/Sidebar.tsx:29:11)
+    at AppShell (src/components/layout/AppShell.tsx:22:11)
+    at RootLayout (src\app\layout.tsx:37:11)
+  27 |         <div>
+  28 |           <p className="font-accent text-sm font-semibold tracking-wide text-slate-100">Pr...
+> 29 |           <p className="text-xs text-slate-400">{nav("studio")}</p>
+     |           ^
+  30 |         </div>
+  31 |       </div>
+  32 |
+⨯ ./src/lib/prompt-engine/index.ts:5:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDesignPrompt'
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDesignPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:5:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDesignPrompt'
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDesignPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:5:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDesignPrompt'
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDesignPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:5:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDesignPrompt'
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDesignPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:2:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBuildPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBuildPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:2:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBuildPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBuildPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:2:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBuildPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBuildPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:2:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBuildPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBuildPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:6:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateFixPrompt'
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+  [90m9 |[0m [36mimport[0m [36mtype[0m {
+
+Import map: aliased to relative './src/lib/prompt-engine/generateFixPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:6:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateFixPrompt'
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+  [90m9 |[0m [36mimport[0m [36mtype[0m {
+
+Import map: aliased to relative './src/lib/prompt-engine/generateFixPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:6:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateFixPrompt'
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+  [90m9 |[0m [36mimport[0m [36mtype[0m {
+
+Import map: aliased to relative './src/lib/prompt-engine/generateFixPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:6:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateFixPrompt'
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+  [90m8 |[0m [36mimport[0m { normalizeOptionsByMode } [36mfrom[0m [32m"@/lib/prompt-engine/smart-routing"[0m;
+  [90m9 |[0m [36mimport[0m [36mtype[0m {
+
+Import map: aliased to relative './src/lib/prompt-engine/generateFixPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:4:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDeployPrompt'
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDeployPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:4:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDeployPrompt'
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDeployPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:4:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDeployPrompt'
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDeployPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:4:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateDeployPrompt'
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+  [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+  [90m7 |[0m [36mimport[0m { scorePrompt } [36mfrom[0m [32m"@/lib/prompt-engine/scorePrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateDeployPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:3:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBusinessPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBusinessPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:3:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBusinessPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBusinessPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:3:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBusinessPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBusinessPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/prompt-engine/index.ts:3:1
+Module not found: Can't resolve '@/lib/prompt-engine/generateBusinessPrompt'
+  [90m1 |[0m [36mimport[0m { analyzeIdea } [36mfrom[0m [32m"@/lib/prompt-engine/analyzeIdea"[0m;
+  [90m2 |[0m [36mimport[0m { generateBuildPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBuildPrompt"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { generateBusinessPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateBusinessPrompt"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { generateDeployPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDeployPrompt"[0m;
+  [90m5 |[0m [36mimport[0m { generateDesignPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateDesignPrompt"[0m;
+  [90m6 |[0m [36mimport[0m { generateFixPrompt } [36mfrom[0m [32m"@/lib/prompt-engine/generateFixPrompt"[0m;
+
+Import map: aliased to relative './src/lib/prompt-engine/generateBusinessPrompt' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/prompt-engine/index.ts [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/prompt-engine/index.ts [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <Card className="overflow-h...">
+      <div className="rounded-2x...">
+        <CardContent className="relative s...">
+          <div className="relative s...">
+            <div>
+            <div>
+            <motion.div initial={{opacity:0,y:8}} animate={{opacity:1,y:0}} transition={{duration:0.25}} ...>
+              <div className="grid gap-4..." style={{opacity:0, ...}} ref={function useMotionRef.useCallback}>
+                <Card className="border-sla...">
+                  <div className="rounded-2x...">
+                    <CardHeader>
+                    <CardContent className="space-y-4">
+                      <div className="space-y-4">
+                        <IdeaInput>
+                        <ExampleIdeas onPick={function bound dispatchSetState}>
+                          <div className="space-y-3">
+                            <div>
+                            <div className="grid gap-2...">
+                              <_c variant="outline" size="sm" className="justify-st..." onClick={function onClick}>
+                                <button
+                                  className="inline-flex items-center whitespace-nowrap font-semibold transition-color..."
+                                  ref={null}
+                                  onClick={function onClick}
+                                >
++                                 travel planning AI platform
+-                                 Islamic lifestyle AI platform
+                              ...
+                ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at button (<anonymous>)
+    at _c (src/components/ui/Button.tsx:41:5)
+    at <unknown> (src/components/generator/ExampleIdeas.tsx:32:11)
+    at Array.map (<anonymous>)
+    at ExampleIdeas (src/components/generator/ExampleIdeas.tsx:31:16)
+    at HomePage (src/app/page.tsx:198:17)
+  39 | const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
+  40 |   ({ className, variant, size, ...props }, ref) => (
+> 41 |     <button
+     |     ^
+  42 |       className={cn(buttonVariants({ variant, size, className }))}
+  43 |       ref={ref}
+  44 |       {...props}
+[browser] Uncaught Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <Card className="overflow-h...">
+      <div className="rounded-2x...">
+        <CardContent className="relative s...">
+          <div className="relative s...">
+            <div>
+            <div>
+            <motion.div initial={{opacity:0,y:8}} animate={{opacity:1,y:0}} transition={{duration:0.25}} ...>
+              <div className="grid gap-4..." style={{opacity:0, ...}} ref={function useMotionRef.useCallback}>
+                <Card className="border-sla...">
+                  <div className="rounded-2x...">
+                    <CardHeader>
+                    <CardContent className="space-y-4">
+                      <div className="space-y-4">
+                        <IdeaInput>
+                        <ExampleIdeas onPick={function bound dispatchSetState}>
+                          <div className="space-y-3">
+                            <div>
+                            <div className="grid gap-2...">
+                              <_c variant="outline" size="sm" className="justify-st..." onClick={function onClick}>
+                                <button
+                                  className="inline-flex items-center whitespace-nowrap font-semibold transition-color..."
+                                  ref={null}
+                                  onClick={function onClick}
+                                >
++                                 AI skincare consultant website
+-                                 2D browser game
+                              ...
+                ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at button (<anonymous>)
+    at _c (src/components/ui/Button.tsx:41:5)
+    at <unknown> (src/components/generator/ExampleIdeas.tsx:32:11)
+    at Array.map (<anonymous>)
+    at ExampleIdeas (src/components/generator/ExampleIdeas.tsx:31:16)
+    at HomePage (src/app/page.tsx:198:17)
+  39 | const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
+  40 |   ({ className, variant, size, ...props }, ref) => (
+> 41 |     <button
+     |     ^
+  42 |       className={cn(buttonVariants({ variant, size, className }))}
+  43 |       ref={ref}
+  44 |       {...props}

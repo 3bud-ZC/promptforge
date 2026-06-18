@@ -10,13 +10,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const { isArabic } = useI18n();
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100">
+    <div className="min-h-screen text-slate-100">
       <div className="relative">
-        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(14,165,233,0.18),transparent_35%),radial-gradient(circle_at_bottom_right,rgba(59,130,246,0.15),transparent_35%)]" />
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(56,189,248,0.2),transparent_45%),radial-gradient(circle_at_bottom_right,rgba(249,115,22,0.18),transparent_45%)]" />
         <div
           className={cn(
-            "relative mx-auto flex max-w-[1600px] flex-col md:flex-row",
-            isArabic && "md:flex-row-reverse",
+            "relative mx-auto flex max-w-[1600px] flex-col",
+            isArabic && "flex-col",
           )}
         >
           <Sidebar />
@@ -26,7 +26,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.25, ease: "easeOut" }}
-              className="p-4 md:p-6"
+              className="p-4"
             >
               {children}
             </motion.main>

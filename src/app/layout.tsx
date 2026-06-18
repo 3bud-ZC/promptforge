@@ -32,9 +32,13 @@ export default function RootLayout({
       suppressHydrationWarning
       className={`${baloo.variable} ${handjet.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-slate-950 font-sans text-slate-100">
+      <body className="min-h-full font-sans text-slate-100">
         <I18nProvider>
-          <AppShell>{children}</AppShell>
+          <div className="pf-app">
+            <div className="pf-shell">
+              <AppShell>{children}</AppShell>
+            </div>
+          </div>
         </I18nProvider>
       </body>
     </html>

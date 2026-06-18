@@ -19,7 +19,7 @@ export function Sidebar() {
   const { nav } = useI18n();
 
   return (
-    <aside className="w-full shrink-0 border-b border-slate-800/80 bg-slate-950/70 px-4 py-4 md:min-h-screen md:w-64 md:border-b-0 md:border-r">
+    <aside className="w-full shrink-0 border-b border-slate-800/80 bg-slate-950/70 px-4 py-4">
       <div className="mb-6 flex items-center gap-3 px-2">
         <div className="grid h-9 w-9 place-items-center rounded-xl bg-cyan-400/20 text-cyan-300">
           <Sparkles className="h-5 w-5" />
@@ -30,7 +30,7 @@ export function Sidebar() {
         </div>
       </div>
 
-      <nav className="grid grid-cols-2 gap-2 md:grid-cols-1">
+      <nav className="grid grid-cols-2 gap-2">
         {items.map((item) => {
           const active =
             pathname === item.href ||

@@ -35,9 +35,7 @@ export default function RootLayout({
       <body className="min-h-full font-sans text-slate-100">
         <I18nProvider>
           <div className="pf-app">
-            <div className="pf-shell">
-              <AppShell>{children}</AppShell>
-            </div>
+            <AppShell>{children}</AppShell>
           </div>
         </I18nProvider>
       </body>

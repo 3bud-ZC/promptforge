@@ -68,22 +68,3 @@ html[dir="rtl"] .rtl-safe-left {
     var(--background);
 }
 
-.pf-shell {
-  min-height: 100vh;
-  max-width: 430px;
-  margin: 0 auto;
-  background: var(--shell);
-  border-left: 1px solid var(--shell-border);
-  border-right: 1px solid var(--shell-border);
-  box-shadow: 0 24px 70px rgba(5, 10, 25, 0.55);
-  overflow-x: hidden;
-}
-
-@media (min-width: 768px) {
-  .pf-shell {
-    min-height: calc(100vh - 32px);
-    margin: 16px auto;
-    border-radius: 28px;
-    overflow: hidden;
-  }
-}
